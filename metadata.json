@@ -1,0 +1,6 @@
+{
+  "name": "Pomana Club",
+  "description": "Interactive 3D animation learning platform with structured practice challenges, interactive 3D lab, gamified progression, and Pomana AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

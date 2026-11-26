@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pomana Club</string>
+    <string name="tagline">Learn 3D. Practise More. Create Anything.</string>
+    <string name="nav_learn">Learn</string>
+    <string name="nav_practice">Practice</string>
+    <string name="nav_lab">3D Lab</string>
+    <string name="nav_ai">Pomana AI</string>
+    <string name="nav_studio">Studio</string>
+    <string name="ai_firebase_notice">Sample preview mode — enable Firebase AI Logic in AI Studio to connect live Gemini tutoring.</string>
+</resources>
